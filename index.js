@@ -11,6 +11,7 @@ app.set('port', process.env.PORT || 3000);
 // Create router
 //var router = require('./router');
 
+
 // Router listens on / (root)
 //app.use('/', router);
 app.use(express.static('app'));
