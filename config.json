@@ -1,0 +1,9 @@
+{
+    "database" : {
+        "host": "localhost",
+        "port": "3000",
+        "collection": "newdb",
+        "username": "abdur",
+        "password": "123"
+    }
+}

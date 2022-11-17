@@ -1,0 +1,22 @@
+{
+  "name": "secure-chat",
+  "version": "1.0.0",
+  "description": "Secure Chatting App",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdur-Rahman-Khan/Secure-Chat.git"
+  },
+  "author": "Abdur-Rahman-Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdur-Rahman-Khan/Secure-Chat/issues"
+  },
+  "homepage": "https://github.com/Abdur-Rahman-Khan/Secure-Chat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
